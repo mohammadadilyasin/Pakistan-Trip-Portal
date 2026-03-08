@@ -1,0 +1,15 @@
+{
+  "name": "Pakistan Trip Portal",
+  "short_name": "Trip Portal",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#004B23",
+  "theme_color": "#004B23",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
